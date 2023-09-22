@@ -23,7 +23,7 @@ team_data <- tibble(
                       "kenny-webb", "deathbringer"), 
   colour = c("red", "blue", "orange", 
              "green", "red"),
-  hobby = c("gambling", "card tricks", "football", 
+  hobby = c("cooking", "card tricks", "football", 
             "hill walking", "writing"),
   favourite_number = c(7, 5, 3, 6, 3)
   )
